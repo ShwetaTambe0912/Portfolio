@@ -15,4 +15,6 @@ img/: Directory containing images used in the portfolio site.
 
 ## Review
 
+The deployed website link: https://shwetatambe0912.github.io/Portfolio/
+
 ![Portfolio Website](./images/Portfolio%20for%20README.jpg "Portfolio Website")
