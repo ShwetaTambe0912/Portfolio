@@ -15,4 +15,4 @@ This portfolio website showcases my background, skills, and projects as a Front-
 * CSS: For styling and layout
 * JavaScript: For interactivity and dynamic content
 * Frameworks/Libraries: Bootstrap, jQuery
-* Version Control: Git and GitHub for code management and collaboration
+* Version Control: Git and GitHub for code management
